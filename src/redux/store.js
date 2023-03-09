@@ -1,8 +1,8 @@
 import { createStore, combineReducers, applyMiddleware } from 'redux';
-import { cartReducer } from './reducers/cart';
-import { userReducer } from './reducers/user';
 import thunk from 'redux-thunk';
 import logger from 'redux-logger';
+import {cartReducer} from "./cart/CartReducer";
+import {userReducer} from "./user/UserReducer";
 
 const rootReducer = combineReducers({
     user: userReducer,

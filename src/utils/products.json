@@ -1,236 +1,286 @@
 {
-    "shoes": {
-        "items": [
-            {
-                "id": 1,
-                "name": "Sneakerși piele Massimo Dutti",
-                "price": 135,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/Rz8lVQa.jpg",
-                "size": 45,
-                "colour": "Negru",
-                "material": "Piele",
-                "brand": "Massimo Dutti",
-                "description": "Sneakerși din piele cu talpă inițial albă, din colecția de toamnă-iarnă 2019, Massimo Dutti."
-            },
-            {
-                "id": 2,
-                "name": "Teniși negri Polo Ralph Lauren",
-                "price": 100,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/Og3Oh24.jpg",
-                "size": 45,
-                "colour": "Negru",
-                "material": "Pânză",
-                "brand": "Polo Ralph Lauren",
-                "description": "Teniși din pânză cu talpă inițial albă, din colecția de primăvară-vară 2019, Fashion Days."
-            },
-            {
-                "id": 3,
-                "name": "Ghete din piele maro Massimo",
-                "price": 185,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/zoqSu87.jpg",
-                "size": 45,
-                "colour": "Maro",
-                "material": "Piele",
-                "brand": "Massimo Dutti",
-                "description": "Ghete maro din piele, din colecția de toamnă-iarnă 2017, Massimo Dutti."
-            }
-        ],
-        "image": "https://i.imgur.com/X0qldXO.jpg",
-        "name": "Încălțăminte",
-        "description": "Ghete, pantofi, sneakerși: finețe garantată!"
-    },
-    "sweaters": {
-        "items": [
-            {
-                "id": 4,
-                "name": "Pulovăr finuț cu guler",
-                "price": 95,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/6afzuEr.jpg",
-                "size": "L",
-                "colour": "Maro",
-                "material": "Cașmir",
-                "brand": "DS Damat",
-                "description": "Pulovăr din cașmir, slim fit, colecția toamnă-iarnă 2019, DS Damat."
-            },
-            {
-                "id": 5,
-                "name": "Pulovăr multicolor",
-                "price": 105,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/s0VytKc.jpg",
-                "size": "L",
-                "colour": "Multicolor",
-                "material": "Bumbac",
-                "brand": "McNeal",
-                "description": "Pulovăr multicolor, colecția toamnă-iarnă 209, McNeal."
-            },
-            {
-                "id": 6,
-                "name": "Pulovăr călduros și frumos",
-                "price": 165,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/BWGgzlK.jpg",
-                "size": "L",
-                "colour": "Multicolor",
-                "material": "Lână",
-                "brand": "SELECTED",
-                "description": "Pulovăr din lână, în carouri, colecția toamnă-iarnă 2019, SELECTED."
-            },
-            {
-                "id": 7,
-                "name": "Pulovăr din lână",
-                "price": 160,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/dTcMbHT.jpg",
-                "size": "L",
-                "colour": "Crem",
-                "material": "Lână",
-                "brand": "Massimo Dutti",
-                "description": "Pulovăr din lână cu model, colecția toamnă-iarnă 2019, Massimo Dutti."
-            }
-        ],
-        "image": "https://i.imgur.com/SZU7liE.jpg",
-        "name": "Pulovere",
-        "description": "Pulovărașe elegănțele, slim, clasă superioară."
-    },
-    "pants": {
-        "items": [
-            {
-                "id": 8,
-                "name": "Blugi bleumarin slim fit",
-                "price": 35,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/VhpATO8.jpg",
-                "size": "34",
-                "colour": "Bleumarin închis",
-                "material": "Blug",
-                "brand": "DS Damat",
-                "description": "Blugi bleumarin, slim fit, colecția primăvară-vară 2019, DS Damat."
-            },
-            {
-                "id": 9,
-                "name": "Blugi negri slim fit",
-                "price": 40,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/weiI07t.jpg",
-                "size": "34",
-                "colour": "Negru-gri",
-                "material": "Blug",
-                "brand": "DS Damat",
-                "description": "Blugi negri, slim fit, colecția toamnă-iarnă 2019, DS Damat."
-            }
-        ],
-        "image": "https://i.imgur.com/srQCDRN.jpg",
-        "name": "Pantaloni/blugi",
-        "description": "Jeanși și pantaloni pentru baieții care și-o ard patroni!"
-    },
-    "jackets": {
-        "items": [
-            {
-                "id": 10,
-                "name": "Haină lungă din lână virgină",
-                "price": 210,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/IXrZitQ.jpg",
-                "size": "L",
-                "colour": "Gri închis",
-                "material": "Lână virgină",
-                "brand": "Peek and Cloppenburg",
-                "description": "Haină lungă din lână virgină, colecția toamnă-iarnă 2018, Peek and Cloppenburg."
-            },
-            {
-                "id": 11,
-                "name": "Geacă bleumarin cu glugă detașabilă",
-                "price": 250,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/eCZd7PU.jpg",
-                "size": "L",
-                "colour": "Bleumarin",
-                "material": "Poliester",
-                "brand": "DS Damat",
-                "description": "Geacă bleumarin cu glugă detașabilă, colecția toamnă-iarnă 2019, DS Damat."
-            }
-        ],
-        "image": "https://i.imgur.com/81I6Oab.jpg",
-        "name": "Geci/Haine",
-        "description": "Confortabile, călduroase și nu arăți ca un cartof!"
-    },
-    "tshirts": {
-        "items": [
-            {
-                "id": 12,
-                "name": "Tricou în dungi",
-                "price": 90,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/BWvzCwB.jpg",
-                "size": "L",
-                "colour": "Multicolor",
-                "material": "Bumbac",
-                "brand": "Lacoste",
-                "description": "Tricou în dungi, colecția primăvară-vară 2019, Lacoste."
-            },
-            {
-                "id": 13,
-                "name": "Tricou de ping pong",
-                "price": 110,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/4BbF4TO.jpg",
-                "size": "L",
-                "colour": "Roșu",
-                "material": "Poliester",
-                "brand": "Li Ning",
-                "description": "Tricou de ping pong cu imprimeu cu dragon, purtat de jucatorii naționalei chinei în 2013."
-            },
-            {
-                "id": 14,
-                "name": "Tricou original BVB cu autograf",
-                "price": 1909,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/etIsbHV.jpg",
-                "size": "L",
-                "colour": "Galben-Negru",
-                "material": "Poliester",
-                "brand": "Puma",
-                "description": "Tricoul purtat de Borussia Dortmund în sezonul competițional 2018-2019, cu numarul 7 și numele 'SANCHO'. Tricoul este semnat de portarul Borussiei, Roman Burki."
-            }
-        ],
-        "image": "https://i.imgur.com/l27WtFL.jpg",
-        "name": "Tricouri",
-        "description": "Și de băiețeală și de sport."
-    },
-    "accesories": {
-        "items": [
-            {
-                "id": 15,
-                "name": "Fular TJ cu două fețe",
-                "price": 85,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/rSVUiLO.jpg",
-                "size": "Universal",
-                "colour": "Gri-Bleumarin",
-                "material": "Cașmir",
-                "brand": "Trussardi Jeans",
-                "description": "Fular cu imprimeu, din colecția toamnă-iarnă 2018, Trussardi Jeans."
-            },
-            {
-                "id": 16,
-                "name": "Mănuși din piele",
-                "price": 60,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/LbjGaZ1.jpg",
-                "size": "L",
-                "colour": "Negru",
-                "material": "Piele",
-                "brand": "DS Damat",
-                "description": "Mănuși din piele, cu model, din colecția toamnă-iarnă 2018, DS Damat."
-            }
-        ],
-        "image": "https://i.imgur.com/qw3wDj8.jpg",
-        "name": "Accesorii",
-        "description": "Fulare, căciuli, mănuși: nu mai sta pe gânduri, cumpără-le acuși!"
-    }
+  "german_dogs": {
+    "items": [
+      {
+        "id": 1,
+        "name": "Brac German cu păr lung",
+        "price": 690,
+        "currency": "LEI",
+        "image": "https://imgur.com/XJwbufx.png",
+        "height": "26 - 31 cm",
+        "weight": "10 - 12 kg",
+        "lifeSpan": "12 – 14 ani",
+        "description": "Acești membri echilibrați, calmi și liniștiți ai categoriei Spaniel sunt tovarăși excelenți și ușor de dresat. Sunt solizi, musculoși și rămân destul de aproape de sol, având, însă, o ținută foarte elegantă. Câinii mai mici trebuie să aibă o personalitate deosebită.\n\nRasa Brac German cu păr lung combină moștenirea câinilor de vânătoare de păsări, a celor folosiți la vânătoarea cu șoimi și a câinilor de apă cu cea a rasei Bracken, ceea ce explică excepționala versatilitate a abilităților lor."
+      },
+      {
+        "id": 2,
+        "name": "German Spitz",
+        "price": 256,
+        "currency": "LEI",
+        "image": "https://imgur.com/iEyqQM8.png",
+        "height": "18 - 55 cm",
+        "weight": "10 - 12 kg",
+        "lifeSpan": "13 – 16 ani",
+        "description": "Rasa German Spitz este strămoșul majorității raselor de tip spitz recunoscute în prezent. Blana lor frumoasă, cu un substrat abundent, este una dintre cele mai captivante trăsături, în special gulerul ca o coamă de leu și coada stufoasă.\n\nCele cinci tipuri de German Spitz sunt cunoscute separat ca Toy Spitz, Miniature Spitz, Medium Spitz, Giant Spitz și Wolfspitz. În țările nevorbitoare de germană, tipul Wolfspitz este cunoscut sub numele de Keeshond, iar tipul Toy Spitz – sub numele de Pomeranian.\n\n"
+      },
+      {
+        "id": 3,
+        "name": "German Spaniel",
+        "price": 499,
+        "currency": "LEI",
+        "image": "https://imgur.com/yZqihj4.png",
+        "height": "46 - 52 cm",
+        "weight": "18 - 25 kg",
+        "lifeSpan": "12 – 14 ani",
+        "description": "Câinii German Spaniel sunt vânători animați și foarte entuziaști. Prietenoși și siguri pe ei în mediul lor natural, ușor de dresat și foarte adaptabili, aceștia nu sunt niciodată timizi sau agresivi, luând ușor urma vânatului pe distanțe lungi, mai ales atunci când sunt dresați și conduși corect.\n\nDatorită versatilității lor, aceștia pot fi folosiți pentru a urmări vânatul rănit sau pierdut, a aduce vânatul sau a-l goni din tufișuri, păduri dese sau apă. German Spaniel este o rasă de câini de goană, de talie medie, cu păr lung și mușchi foarte bine dezvoltați, oase solide și un cap nobil.\n\n"
+      },
+      {
+        "id": 4,
+        "name": "Ciobănesc German",
+        "price": 560,
+        "currency": "LEI",
+        "image": "https://imgur.com/jMBvnUl.png",
+        "height": "55 - 65 cm",
+        "weight": "22 - 40 kg",
+        "lifeSpan": "9 - 13 ani",
+        "description": "Atunci când sunt bine dresați, Ciobăneștii Germani sunt echilibrați, siguri pe ei, vigilenți, docili și extrem de inteligenți. Această lungă listă de calități îi face tovarăși și protectori buni, dar și câini de pază sau ciobănești excelenți.\n\nCiobăneștii Germani sunt animați de o puternică motivație de a lucra. Pot deveni o figură dominantă în viața proprietarilor, însă dresajul unui Ciobănesc German este ușor, dacă acestuia i se acordă timpul și atenția de care are nevoie. Această rasă trebuie să primească zilnic stimulente mentale și fizice semnificative, având multă nevoie de activitate fizică, dar și de învățare."
+      }
+    ],
+    "image": "https://imgur.com/ubj40Kr.jpeg",
+    "name": "German",
+    "description": "Acești câini sunt cunoscuți pentru inteligența și energia lor, precum și pentru abilitățile lor de vânătoare. Sunt foarte atletici și se descurcă bine în diferite activități fizice, cum ar fi alergarea, înotul și săritul"
+  },
+  "irish_dogs": {
+    "items": [
+      {
+        "id": 5,
+        "name": "Irish Water Spaniel",
+        "price": 675,
+        "currency": "LEI",
+        "image": "https://imgur.com/f0hb4Dw.png",
+        "height": "55 - 61 cm",
+        "weight": "20 - 31 kg",
+        "lifeSpan": "10 – 12 ani",
+        "description": "Câinii Irish Water Spaniel se adaptează cu ușurință la majoritatea stilurilor de vânătoare de mamifere și păsări, jucând deseori rolul de brac și fiind încântați să aducă vânatul, chiar și din desișuri. Grație constituției, dar și caracterului lor, sunt deseori folosiți drept câini de vânătoare pentru păsări de apă.\n\nSunt buni câini de familie, iubitori și jucăuși, cu un „simț al umorului” bine dezvoltat, care doresc să se implice în orice se întâmplă în casă. Acestea fiind spuse, acești câini sunt deseori rezervați cu străinii."
+      },
+      {
+        "id": 6,
+        "name": "Irish Red Setter",
+        "price": 876,
+        "currency": "LEI",
+        "image": "https://imgur.com/7u9zBJf.png",
+        "height": "56 - 66 cm",
+        "weight": "20 - 31 kg",
+        "lifeSpan": "24 - 32 ani",
+        "description": "Câinii din rasa Irish Red Setter sunt rapizi și atletici, iar popularitatea lor a crescut datorită naturii lor animate, inteligente, energice, afectuoase și loiale.\n\nInițial crescuți pentru vânătoare în țara lor natală, în prezent câinii din rasa Irish Red Setter sunt câini de familie populari în întreaga lume, fiind tovarăși excelenți atât pentru adulți, cât și pentru copii."
+      },
+      {
+        "id": 7,
+        "name": "Irish Glen of Imaal Terrier",
+        "price": 443,
+        "currency": "LEI",
+        "image": "https://imgur.com/KYw0MEa.png",
+        "height": "32 - 36 cm",
+        "weight": "14 - 18 kg",
+        "lifeSpan": "10 – 15 ani",
+        "description": "La fel ca toți ceilalți terrieri, acești câini mici și tenace au fost crescuți pentru a vâna bursuci și vulpi și pentru a menține populația de șobolani la minimum. În timp, au devenit buni câini de familie, deși rasa este încă una dintre cele mai rar întâlnite și mai puțin cunoscute.\n\nDeși au un loc în lista de rase native vulnerabile ale Asociației Chinologice Britanice, acești mici terrieri încearcă să își refacă numerele, în mare măsură datorită farmecului lor natural și al aptitudinii pentru viața de familie."
+      },
+      {
+        "id": 8,
+        "name": "Irish Wolfhound",
+        "price": 356,
+        "currency": "LEI",
+        "image": "https://imgur.com/1RpjeTJ.png",
+        "height": "76 - 86 cm",
+        "weight": "48 - 82 kg",
+        "lifeSpan": "8 – 10 ani",
+        "description": "Până la sfârșitul secolului al XVII-lea, acești câini au fost folosiți în Irlanda pentru a vâna lupi și căprioare. În zilele noastre, sunt câini de companie renumiți. Cu siguranță, nu sunt la fel de grei și nu au o constituție la fel de solidă ca Dogul German, dar câinii din rasa Irish Wolfhound sunt totuși câini foarte mari, impunători și foarte musculoși.\n\nCâinii din rasa Irish Wolfhound sunt câini buni de pază, dispuși să își protejeze familia umană de orice amenințare.\n\n"
+      }
+    ],
+    "image": "https://imgur.com/dSocWYO.png",
+    "name": "Irish",
+    "description": "De-a lungul timpului, câinii irlandezi au devenit simbolul țării lor, fiind îndrăgiți și apreciați de oameni din întreaga lume. Acești câini sunt foarte înalți și puternici, dar și blânzi și loiali stăpânilor lor. Sunt cunoscuți pentru personalitatea lor calmă și afectuoasă, dar și pentru curajul și devotamentul lor necondiționat."
+  },
+  "japanese_dogs": {
+    "items": [
+      {
+        "id": 9,
+        "name": "Japanese Spitz",
+        "price": 894,
+        "currency": "LEI",
+        "image": "https://imgur.com/1d2Tk2e.png",
+        "height": "30 - 40 cm",
+        "weight": "8 - 16 kg",
+        "lifeSpan": "10 - 16 ani",
+        "description": "Acesta este singurul câine de tip spitz crescut exclusiv pentru companie, deși tipurile de spitz din Japonia au fost inițial câini de lucru formidabili.\n\nAcești câini bine construiți, bine proporționați, au o blană bogată de culoare alb pur, botul ascuțit, urechi triunghiulare ciulite și coada în vânt. Spiritul și demnitatea lor naturale sunt exprimate în frumusețea lor armonioasă și elegantă.\n\n"
+      },
+      {
+        "id": 10,
+        "name": "Japanese Chin",
+        "price": 532,
+        "currency": "LEI",
+        "image": "https://imgur.com/0grKX7J.png",
+        "height": "25 - 30 cm",
+        "weight": "1 - 5 kg",
+        "lifeSpan": "10 - 12 ani",
+        "description": "Câinii din rasa Japanese Chin și-au făcut un renume de câini de talie mică iubitori și grațioși. Acești câini sunt afectuoși cu proprietarii lor, neiubind nimic mai mult decât să fie alături de ei.\n\nÎn ciuda taliei lor mici, acești câini au personalități mari, animate și foarte multă energie. Inteligența lor, cuplată cu adaptabilitatea și dragostea față de familiile lor umane, i-a făcut tovarăși populari în întreaga lume."
+      },
+      {
+        "id": 11,
+        "name": "Japanese Terrier",
+        "price": 312,
+        "currency": "LEI",
+        "image": "https://imgur.com/kNjOSRX.png",
+        "height": "20 - 25 cm",
+        "weight": "2 - 3.6 kg",
+        "lifeSpan": "9 - 12 ani",
+        "description": "Câinii din rasa Japanese Terrier sunt animați, veseli și deosebit de inteligenți. Printre principalele caracteristici ale rasei se numără adaptabilitatea și firea deosebit de afectuoasă. Un câine de talie mică, cu aspect inteligent și contur compact, dar bine definit.\n\nBlana este foarte scurtă, având o lungime de aproximativ 2 mm. Nu prea zgomotoși, acești câini sensibili apreciază atât compania adulților, cât și pe cea a copiilor. Ne putem da seama cu ușurință de ce familiile japoneze îi apreciază atât de mult.\n\n"
+      }
+    ],
+    "image": "https://imgur.com/HZJmpa4.jpg",
+    "name": "Japanese",
+    "description": "În cultura japoneză, ei sunt văzuți ca fiind loiali, inteligenți și loviți de zei. De-a lungul istoriei, câinii au avut un rol important în viața japonezilor, fiind adesea considerați membri ai familiei și fiind respectați și iubiți ca atare."
+  },
+  "welsh_dogs": {
+    "items": [
+      {
+        "id": 12,
+        "name": "Welsh Pembroke Corgi ",
+        "price": 467,
+        "currency": "LEI",
+        "image": "https://imgur.com/K15dpSM.png",
+        "height": "26 - 31 cm",
+        "weight": "10 - 12 kg",
+        "lifeSpan": "aprox. 17 ani",
+        "description": "Câinii din rasa Corgi Pembroke sunt mai răspândiți decât cei din rasa Corgi Cardigan. De-a lungul timpului, ei au câștigat aprobare din partea familiei regale, regele George al VI-lea oferind un pui din rasa Corgi fiicei sale, viitoarea regină Elisabeta a II-a, care a avut mereu astfel de câini de atunci.\n\nPuțin mai mici decât verișorii lor Cardigan, câinii Corgi Pembroke sunt o rasă prietenoasă și sociabilă, care pot fi animale de familie sau câini de companie ideali."
+      },
+      {
+        "id": 13,
+        "name": "Welsh Cardigan Corgi ",
+        "price": 497,
+        "currency": "LEI",
+        "image": "https://imgur.com/AQznbFI.png",
+        "height": "30 cm",
+        "weight": "10 - 12 kg",
+        "lifeSpan": "aprox. 17 ani",
+        "description": "Câinii Corgi sunt mici, animați, activi și inteligenți, cu un temperament echilibrat. Grație firii lor prietenoase, sunt câini de companie sau de familie ideali.\n\nCu toate acestea, datorită originii lor de câini de lucru au nevoie de mai multă mișcare și stimulare decât te-ai putea aștepta de la un câine de această talie, și le este mult mai bine atunci când au acces frecvent în aer liber."
+      },
+      {
+        "id": 14,
+        "name": "Welsh Springer Spaniel",
+        "price": 250,
+        "currency": "LEI",
+        "image": "https://imgur.com/V7V3RWH.png",
+        "height": "46 - 48 cm",
+        "weight": "15 - 25 kg",
+        "lifeSpan": "15 - 17 ani",
+        "description": "Câinii Welsh Springer Spaniel sunt mult mai puțin răspândiți decât verii lor englezi, dar mulți experți consideră că rasa este combinația perfectă dintre câinii de vânătoare și cei de expoziție. Sunt rapizi, cu multă energie, urmărind fazanii și iepurii mari în apă, pe uscat, prin desișuri și tufișuri.\n\nAceastă rasă are toate calitățile unui animal de familie iubitor: o personalitate alertă și loială, o speranță de viață peste medie, o sănătate excelentă și o blană care se curăță, practic, singură. Câinii Welsh Springer Spaniel sunt excelenți tovarăși atât pentru copii, cât și pentru adulți."
+      }
+    ],
+    "image": "https://imgur.com/CosBkCQ.jpg",
+    "name": "Welsh",
+    "description": "Există mai multe rase de câini care provin din Țara Galilor, dar cea mai cunoscută și mai populară este Welsh Corgi, o rasă mică și energică de câini de turmă"
+  },
+  "border_dogs": {
+    "items": [
+      {
+        "id": 15,
+        "name": "Border Collie",
+        "price": 748,
+        "currency": "LEI",
+        "image": "https://imgur.com/xuVaKBv.png",
+        "height": "25 - 50 cm",
+        "weight": "30 - 56 kg",
+        "lifeSpan": "12 - 14 ani",
+        "description": "Caracterizați prin grație, eleganță și echilibru perfect, precum și o combinație între substanță și rezistență, câinii din rasa Border Collie sunt inteligenți și loiali.\n\nAcești câini de lucru foarte energici sunt tovarăși afectuoși. Cerințele câinilor din rasa Border Collie legate de mișcare și dresaj îi fac mai potriviți pentru proprietarii sau familiile cu experiență în deținerea unei rase de lucru.\n\n"
+      },
+      {
+        "id": 16,
+        "name": "Border Terrier",
+        "price": 321,
+        "currency": "LEI",
+        "image": "https://imgur.com/4hzpBUi.png",
+        "height": "30 - 37 cm",
+        "weight": "6.4 - 7 kg",
+        "lifeSpan": "14 - 16 ani",
+        "description": "Solizi, bine echilibrați și plini de energie, câinii din rasa Border Terrier sunt, de asemenea, neînfricați. Această rasă are toate trăsăturile comportamentale ale unui câine de lucru.\n\nÎnainte de a fi recunoscuți de Clubul Britanic al Crescătorilor de Câini, Border Terrierii erau deseori nevoiți să-și găsească singuri hrana; astfel, numai vânătorii înnăscuți reușeau să se hrănească suficient. În mare măsură, acest lucru explică caracterul rasei."
+      }
+    ],
+    "image": "https://imgur.com/RiuDYUm.jpg",
+    "name": "Border",
+    "description": "Câinii Border sunt, de asemenea, foarte loiali față de stăpânii lor și sunt cunoscuți pentru a-și forma legături strânse cu membrii familiei. Acești câini sunt adesea aleși ca animale de companie datorită capacităților lor de lucru remarcabile și a personalităților lor loiale și prietenoase."
+  },
+  "australian_dogs": {
+    "items": [
+      {
+        "id": 17,
+        "name": "Australian Cattle",
+        "price": 230,
+        "currency": "LEI",
+        "image": "https://imgur.com/auCQyjP.png",
+        "height": "45 - 50cm",
+        "weight": "15 - 23kg",
+        "lifeSpan": "12 - 16 ani",
+        "description": "Cainii Australian Cattle sunt o specie de caini foarte activi, usor de antrenat si de intretinut."
+      },
+      {
+        "id": 18,
+        "name": "Australian Kelpie",
+        "price": 316,
+        "currency": "LEI",
+        "image": "https://imgur.com/pZDSqjc.png",
+        "height": "43 - 51 cm",
+        "weight": "10 - 20 kg",
+        "lifeSpan": "aprox. 16 ani",
+        "description": "Sprinteni și activi, câinii Australian Kelpie sunt excelenți tovarăși, având suplețea și tonusul muscular necesare pentru a lucra întreaga zi. Au nevoie de fermitate și nu trebuie să simtă nicio slăbiciune.\n\nSpecializați în controlarea cirezilor mari de vite, câinii Australian Kelpie muncesc cu plăcere și pasiune, ceea ce explică reputația legendară a acestora în rândul australienilor. Câinii cu blana neagră sunt cei mai răspândiți, deși această rasă poate avea, în realitate, un colorit divers."
+      },
+      {
+        "id": 17,
+        "name": "Ciobănesc Australian",
+        "price": 295,
+        "currency": "LEI",
+        "image": "https://imgur.com/rUyUSs7.png",
+        "height": "47 - 60 cm",
+        "weight": "22 - 30 kg",
+        "lifeSpan": "13 - 15 ani",
+        "description": "Câinii din rasa Ciobănesc Australian sunt câini inteligenți de lucru, cu instincte puternice de mânat și pază. Acești tovarăși loiali sunt plini de viață și au rezistența necesară pentru a lucra toată ziua.\n\nSunt atenți, animați și agili. Sunt câini echilibrați și binevoitori, care pot fi puțin rezervați cu străinii, dar fără să dea vreodată semne de agresiune."
+      },
+      {
+        "id": 18,
+        "name": "Australian Silky Terrier",
+        "price": 217,
+        "currency": "LEI",
+        "image": "https://imgur.com/kYonWrJ.png",
+        "height": "43 - 51 cm",
+        "weight": "10 - 20 kg",
+        "lifeSpan": "13 - 15 ani",
+        "description": "Rasa Silky Terrier a apărut în Sydney, Australia și este strâns legată de rasa Yorkshire Terrier. Blana acestor câini este fină, lipită de corp și lucioasă, de unde și numele rasei.\n\nÎn ciuda taliei și a aspectului lor rafinat, acești câini prezintă toate caracteristicile terrierilor, printre care se numără entuziasmul, energia și robustețea. Acești mici câini veseli sunt tovarăși excelenți, datorită firii lor sociabile și adaptabile.\n\n"
+      },
+      {
+        "id": 19,
+        "name": "Australian Stumpy Tail Cattle",
+        "price": 549,
+        "currency": "LEI",
+        "image": "https://imgur.com/jgmgGdn.png",
+        "height": "43 - 51 cm",
+        "weight": "18 - 22 kg",
+        "lifeSpan": "aprox. 15 ani",
+        "description": "Acești câini bine proporționați, de formă aproape pătrată, au un aspect robust și pot rezista la ore lungi de muncă intensă în aproape orice condiții.\n\nRasa Stumpy Tail este una loială, curajoasă și devotată, cu o aptitudine naturală pentru muncă si controlul vitelor. Sunt întotdeauna alerți, atenți, ascultători și destul de suspicioși cu străinii."
+      },
+      {
+        "id": 20,
+        "name": "Australian Terrier",
+        "price": 405,
+        "currency": "LEI",
+        "image": "https://imgur.com/1O8QpVJ.png",
+        "height": "43-51cm",
+        "weight": "7 - 10 kg",
+        "lifeSpan": "13 - 15 ani",
+        "description": "În esență câini de lucru, Australian Terrier sunt, de asemenea, suficient de loiali și de echilibrați pentru a fi tovarăși excelenți. Acești câini robuști, scunzi, au lungimea mai mare decât înălțimea.\n\nAnimați, activi și bine construiți, au temperamentul terrierului. Blana aspră, netunsă, formează o coamă clară în jurul gâtului, care se extinde până la stern. Capul lung și puternic contribuie la aspectul său rezistent și aspru."
+      }
+    ],
+    "image": "https://imgur.com/AYF75rc.jpg",
+    "name": "Australian",
+    "description": "Acești câini au fost crescuți inițial în Australia pentru a ajuta la păstrarea turmelor de vite, fiind recunoscuți pentru abilitatea lor de a se deplasa cu ușurință pe terenuri dificile și pentru abilitățile lor excelente de paștere. De-a lungul timpului, acești câini au devenit populari și ca animale de companie, datorită personalității lor jucăușe și afectuoase."
+  }
 }

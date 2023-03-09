@@ -1,14 +1,15 @@
 import React from 'react';
 import './App.css';
 import { Switch, Route } from "react-router-dom";
-import Home from './pages/Home';
-import About from './pages/About';
-import Login from './pages/Login';
-import Page404 from './pages/Page404';
-import Category from './pages/Category';
-import Cart from './pages/Cart';
+import Home from './pages/HomePage/Home';
+import About from './pages/AboutPage/About';
+import Login from './pages/LoginPage/Login';
+import Page404 from './pages/ErrorPage/Page404';
+import Category from './pages/Category/Category';
+import Cart from './pages/CartPage/Cart';
 import './utils/utility-classes.css';
-import Product from './pages/Product';
+import Product from './pages/ProductPage/Product';
+import Terms from "./pages/TermsPage/Terms";
 
 function App() {
   return(
@@ -20,6 +21,7 @@ function App() {
         <Route path="/about" component={About}/>
         <Route path="/category/:categoryName" component={Category}/>
         <Route path="/product/:productId" component={Product}/>
+        <Route path="/terms-and-conditions" component={Terms}/>
         <Route path="*" component={Page404}/>
       </Switch>
     </div>

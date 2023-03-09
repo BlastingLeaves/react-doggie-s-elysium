@@ -18,20 +18,24 @@ function updateUserError(payload) {
     }
 }
 
-export function loginUser() {
+export function loginUser(authMethod) {
     return (dispatch) => {
         dispatch(startLoading());
 
-        signInWithGoogle().then(userData => {
+        let signInPromise = null;
+        if (authMethod === 'google') {
+            signInPromise = signInWithGoogle();
+        } else if (authMethod === 'facebook') {
+            signInPromise = signInWithFacebook();
+        } else {
+            dispatch(updateUserError(new Error('Unsupported auth method')));
+            return;
+        }
+
+        signInPromise.then(userData => {
             dispatch(updateUserData(userData.user));
         }).catch(error => {
             dispatch(updateUserError(error));
-        })
-
-        signInWithFacebook().then(userData =>{
-            dispatch(updateUserData(userData.user))
-        }).catch(error => {
-            dispatch(updateUserError(error))
         })
     }
 }

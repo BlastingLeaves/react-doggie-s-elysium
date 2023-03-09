@@ -54,8 +54,8 @@ function mapStateToProps(state) {
 
 function mapDispatchToProps(dispatch) {
     return {
-        signInWithGoogle: () => dispatch(loginUser()),
-        signInWithFacebook: () => dispatch(loginUser())
+        signInWithGoogle: () => dispatch(loginUser("google")),
+        signInWithFacebook: () => dispatch(loginUser("facebook"))
     }
 }
 

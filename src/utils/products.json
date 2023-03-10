@@ -235,7 +235,7 @@
         "description": "Sprinteni și activi, câinii Australian Kelpie sunt excelenți tovarăși, având suplețea și tonusul muscular necesare pentru a lucra întreaga zi. Au nevoie de fermitate și nu trebuie să simtă nicio slăbiciune.\n\nSpecializați în controlarea cirezilor mari de vite, câinii Australian Kelpie muncesc cu plăcere și pasiune, ceea ce explică reputația legendară a acestora în rândul australienilor. Câinii cu blana neagră sunt cei mai răspândiți, deși această rasă poate avea, în realitate, un colorit divers."
       },
       {
-        "id": 17,
+        "id": 19,
         "name": "Ciobănesc Australian",
         "price": 295,
         "currency": "LEI",
@@ -246,7 +246,7 @@
         "description": "Câinii din rasa Ciobănesc Australian sunt câini inteligenți de lucru, cu instincte puternice de mânat și pază. Acești tovarăși loiali sunt plini de viață și au rezistența necesară pentru a lucra toată ziua.\n\nSunt atenți, animați și agili. Sunt câini echilibrați și binevoitori, care pot fi puțin rezervați cu străinii, dar fără să dea vreodată semne de agresiune."
       },
       {
-        "id": 18,
+        "id": 20,
         "name": "Australian Silky Terrier",
         "price": 217,
         "currency": "LEI",
@@ -257,7 +257,7 @@
         "description": "Rasa Silky Terrier a apărut în Sydney, Australia și este strâns legată de rasa Yorkshire Terrier. Blana acestor câini este fină, lipită de corp și lucioasă, de unde și numele rasei.\n\nÎn ciuda taliei și a aspectului lor rafinat, acești câini prezintă toate caracteristicile terrierilor, printre care se numără entuziasmul, energia și robustețea. Acești mici câini veseli sunt tovarăși excelenți, datorită firii lor sociabile și adaptabile.\n\n"
       },
       {
-        "id": 19,
+        "id": 21,
         "name": "Australian Stumpy Tail Cattle",
         "price": 549,
         "currency": "LEI",
@@ -268,7 +268,7 @@
         "description": "Acești câini bine proporționați, de formă aproape pătrată, au un aspect robust și pot rezista la ore lungi de muncă intensă în aproape orice condiții.\n\nRasa Stumpy Tail este una loială, curajoasă și devotată, cu o aptitudine naturală pentru muncă si controlul vitelor. Sunt întotdeauna alerți, atenți, ascultători și destul de suspicioși cu străinii."
       },
       {
-        "id": 20,
+        "id": 22,
         "name": "Australian Terrier",
         "price": 405,
         "currency": "LEI",

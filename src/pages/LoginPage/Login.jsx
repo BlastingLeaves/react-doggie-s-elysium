@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-import Logo from '../../assets/images/logo.png';
+import Logo from '../../assets/icons/doggie.svg';
 import {ReactComponent as Google} from '../../assets/icons/google.svg';
 import {ReactComponent as Facebook} from '../../assets/icons/facebook.svg';
 import './Login.css'
@@ -19,7 +19,7 @@ class Login extends React.Component {
         return (
             <div className="login-page">
                 <Link to='/'>
-                    <img src={Logo} alt="logo" className="mb-5"/>
+                    <img src={Logo} alt="logo" className="mb-5" style={{width: 500}}/>
                 </Link>
 
                 <h1 className="h2">Login</h1>

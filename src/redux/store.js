@@ -3,10 +3,12 @@ import thunk from 'redux-thunk';
 import logger from 'redux-logger';
 import {cartReducer} from "./cart/CartReducer";
 import {userReducer} from "./user/UserReducer";
+import {favoriteReducer} from "./favorite/FavoriteReducer";
 
 const rootReducer = combineReducers({
     user: userReducer,
-    cart: cartReducer
+    cart: cartReducer,
+    favorite: favoriteReducer
 });
 
 const middlewares = [thunk];

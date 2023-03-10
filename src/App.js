@@ -10,6 +10,7 @@ import Cart from './pages/CartPage/Cart';
 import './utils/utility-classes.css';
 import Product from './pages/ProductPage/Product';
 import Terms from "./pages/TermsPage/Terms";
+import Favorite from "./pages/FavoritePage/Favorite";
 
 function App() {
   return(
@@ -18,6 +19,7 @@ function App() {
         <Route path="/login" component={Login}/>
         <Route exact path="/" component={Home}/>
         <Route path="/cart" component={Cart}/>
+        <Route path="/favorite" component={Favorite}/>
         <Route path="/about" component={About}/>
         <Route path="/category/:categoryName" component={Category}/>
         <Route path="/product/:productId" component={Product}/>
